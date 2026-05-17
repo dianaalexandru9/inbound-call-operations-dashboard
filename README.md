@@ -151,19 +151,19 @@ README.md           -> Project documentation
 
 ### Operations Overview
 
-![Operations Overview](screenshots/overview.png)
+![Operations Overview](screenshots/Inbound_Calls_Dashboard.png)
 
 ---
 
 ### Agent Performance
 
-![Agent Performance](screenshots/agent_performance.png)
+![Agent Performance](screenshots/Agent_Performance.png)
 
 ---
 
 ### Operational Insights
 
-![Operational Insights](screenshots/operational_insights.png)
+![Operational Insights](screenshots/Operational_Insights.png)
 
 ---
 
